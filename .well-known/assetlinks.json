@@ -1,14 +1,4 @@
-[
-  {
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.biocryptology.mobile.biocryptology_android_app.sandbox",
-    "sha256_cert_fingerprints":
-    ["58:FF:B5:2C:37:31:9C:61:3F:7F:21:FF:4D:B3:B2:5F:6A:56:15:79:EB:1D:7E:46:7C:4C:38:20:46:8C:D3:80"]
-  }
- },
-  {
+[{
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
@@ -16,5 +6,4 @@
     "sha256_cert_fingerprints":
     ["58:FF:B5:2C:37:31:9C:61:3F:7F:21:FF:4D:B3:B2:5F:6A:56:15:79:EB:1D:7E:46:7C:4C:38:20:46:8C:D3:80"]
   }
-}
-]
+}]
